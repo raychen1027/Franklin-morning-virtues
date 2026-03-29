@@ -30,7 +30,7 @@ This is a daily morning reminder tool based on ISO week rotation, helping you pr
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/franklin-morning-virtues.git
+git clone https://github.com/raychen1027/franklin-morning-virtues.git
 
 # 进入目录
 cd franklin-morning-virtues
@@ -52,7 +52,7 @@ claude skills install ./franklin-virtues.skill
 
 ```bash
 # 克隆到 OpenClaw skills 目录
-git clone https://github.com/yourusername/franklin-morning-virtues.git ~/.openclaw/skills/franklin-virtues
+git clone https://github.com/raychen1027/franklin-morning-virtues.git ~/.openclaw/skills/franklin-virtues
 ```
 
 然后在 OpenClaw 界面中启用该 skill。
